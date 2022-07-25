@@ -58,6 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Ignored directory
 HappyFunSub/Library
 HappyFunSub/ProjectSettings
 HappyFunSub/Temp
